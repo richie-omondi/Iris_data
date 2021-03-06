@@ -1,5 +1,5 @@
-# Iris_data
+# Miscellaneous_data
 
-This repo contains Iris data in different data formats that has been used in analysis for research and educational purposes
+This repo contains data in different ormats that has been used in analysis for research and educational purposes
 
-# Source: Kaggle
+# Source: This thing called the 'InterneT'
